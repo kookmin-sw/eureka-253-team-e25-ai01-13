@@ -14,7 +14,7 @@
 
 ### 팀 슬로건
 
-시작이 반이다.
+Teamwork makes everything work.
 
 ### 팀 소개
 
