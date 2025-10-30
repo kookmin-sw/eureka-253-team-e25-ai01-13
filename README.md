@@ -356,6 +356,9 @@ Sixth Sense 프로젝트는 **카메라와 소형 프로젝터가 달린 웨어�
 
 ---
 
+<img width="2245" height="3179" alt="유레카_포스터" src="https://github.com/user-attachments/assets/46020601-134d-4504-8676-bd2396200caf" />
+
+
 
 ## Markdown을 사용하여 내용꾸미기를 익히세요.
 
